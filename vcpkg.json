@@ -1,0 +1,13 @@
+{
+  "name": "NoWaterJump",
+  "version-string": "1.0.0",
+  "description": "F4SE plugin to prevent remove the ability to jump while swimming. ",
+  "homepage": "https://www.nexusmods.com/fallout4/mods/75100",
+  "license": "GPLv3",
+  "dependencies": [
+    "boost-stl-interfaces",
+    "fmt",
+    "mmio",
+    "spdlog"
+  ]
+}
